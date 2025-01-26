@@ -10,10 +10,10 @@
 
 ###
 
-<h6>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.</h5>
-<h6>
-🌟 Highlights:</h5><p>Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities<p></p>
-<h5>🎯 Goals:</h5><p>I aim to create impactful software that improves accessibility and inclusivity, especially for students with unique needs. I’m excited about exploring AI-driven solutions and contributing to HCI research to make technology more intuitive and accessible.</p>
+<p>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.</p>
+<p>
+🌟 Highlights: Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities.</p>
+<p>🎯 Goals: I aim to create impactful software that improves accessibility and inclusivity, especially for students with unique needs. I’m excited about exploring AI-driven solutions and contributing to HCI research to make technology more intuitive and accessible.</p>
 
 ###
 
