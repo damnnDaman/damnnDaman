@@ -11,11 +11,11 @@
 ###
 
 <p>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.</p>
-<h4>
-🌟 Highlights:</h4><h6>Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities.</h6>
+<h4>🌟 Highlights:</h4><h5>Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities.</h5>
 
 ###
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=damnnDaman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damnnDaman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -104,15 +104,7 @@
   </a>
 </div>
 
-###
 
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/damnnDaman/damnnDaman/github/workflows/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
 </div>
