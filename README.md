@@ -81,6 +81,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo"  />
 </div>
 
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/1ybdsu17inn15g69se8qz9jby">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ybdsu17inn15g69se8qz9jby&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ###
 
 <br clear="both">
@@ -93,12 +104,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/damnnDaman/damnnDaman/github/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/damnnDaman/damnnDaman/github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
 <div align="left">
 </div>
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/damnnDaman/count.svg?"  />
+</div>
+
+
 
 ###
 
@@ -108,20 +127,6 @@
   </a>
   <a href="https://www.instagram.com/_damman__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/damnnDaman/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/1ybdsu17inn15g69se8qz9jby">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ybdsu17inn15g69se8qz9jby&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
