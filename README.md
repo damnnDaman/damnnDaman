@@ -1,4 +1,16 @@
-<h3 align="left">Hi 👋! I’m Daman Kumar</h3><h5>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.<br><br>🌟 Highlights:<br>Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities<br><br>🎯 Goals:<br>I aim to create impactful software that improves accessibility and inclusivity, especially for students with unique needs. I’m excited about exploring AI-driven solutions and contributing to HCI research to make technology more intuitive and accessible.</h5>
+<h3 align="left">Hi 👋! I’m Daman Kumar</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="250" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
+</div>
+
+###
+
+<h5>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.<br><br>🌟 Highlights:<br><p>Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities<p></p><br><br>🎯 Goals:<br><p></p>I aim to create impactful software that improves accessibility and inclusivity, especially for students with unique needs. I’m excited about exploring AI-driven solutions and contributing to HCI research to make technology more intuitive and accessible<p></p>.</h5>
 
 ###
 
@@ -92,19 +104,11 @@
 
 ###
 
-###
+
 
 <br clear="both">
 
-<div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/damnnDaman/damnnDaman/github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/damnnDaman/damnnDaman/github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
