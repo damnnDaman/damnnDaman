@@ -11,7 +11,6 @@
 ###
 
 <p>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.</p>
-<h4>🌟 Highlights:</h4><h5>Undergraduate Teaching Assistant @University of Guelph <br>Seeking Summer 2025 co-op/internships opportunities.</h5>
 
 ###
 
@@ -88,16 +87,6 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo"  />
 </div>
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/1ybdsu17inn15g69se8qz9jby">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1ybdsu17inn15g69se8qz9jby&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 
 <div align="left">
