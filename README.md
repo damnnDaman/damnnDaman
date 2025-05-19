@@ -10,7 +10,7 @@
 
 ###
 
-<p>I’m a second-year Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.</p>
+<p>A Software Engineering student at the University of Guelph with a passion for building innovative solutions that bridge the gap between humans and technology. My interests lie in AI, full-stack development, and robotics, and I enjoy tackling real-world challenges through coding and design.</p>
 
 ###
 
